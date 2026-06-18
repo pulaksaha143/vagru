@@ -246,17 +246,6 @@ Standard GRU treats every timestep the same, regardless of how much time has pas
 
 ---
 
-## Citation
-
-```bibtex
-@article{saha2026vagru,
-  title   = {Volatility-Aware Gated Recurrent Units: Continuously Differentiable
-             Contractive Sequence Modeling with GPU Stabilization},
-  author  = {Saha, Pulak},
-  journal = {arXiv preprint},
-  year    = {2026}
-}
-```
 
 ---
 
