@@ -24,7 +24,7 @@ Standard GRUs assume your data is **evenly spaced in time**. Real-world data isn
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/VAGRU.git
+git clone https://github.com/pulaksaha143/vagru.git
 cd VAGRU
 pip install -r requirements.txt
 ```
